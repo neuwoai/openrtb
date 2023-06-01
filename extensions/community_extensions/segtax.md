@@ -247,6 +247,10 @@ Source : AdCOM [https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/maste
       <td>NumberEight Audience Taxonomy</td>
     </tr>
     <tr>
+      <td>900</td>
+      <td>Neuwo Content Taxonomy</td>
+    </tr>
+    <tr>
       <td>5000</td>
       <td>Optable Data Collaboration Platform - Public Audiences</td>
     </tr>
